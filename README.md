@@ -13,16 +13,14 @@ Game made during the year 2019 to have fun and learn Unity3D.
 Small low poly game, where the goal is to dodge meteorites to prevent them from hitting the planet earth.
 ![](https://i.imgur.com/NtkgZiz.gif)
 
-- Use the mouse to rotate the planet.
+Use the mouse to rotate the planet.
 ![](https://i.imgur.com/XkrxZyd.gif)
 
-
-- You have to make the meteorites fall into the water. If meteorites fall on continents, humanity loses life.
+You have to make the meteorites fall into the water. If meteorites fall on continents, humanity loses life.
 ![](https://i.imgur.com/ASLYBFv.gif)
 
-- If the life of humanity reaches 0%, you lose.
+If the life of humanity reaches 0%, you lose.
 ![](https://i.imgur.com/BPyVUdA.gif)
-
 
 ## How to open the project:
 
