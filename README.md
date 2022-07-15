@@ -26,16 +26,16 @@ If the life of humanity reaches 0%, you lose.
 
 - Clone the git repository to your computer with the following command :
 ```
-git@github.com:LeoSery/EarthSaver--Unity3D-2020.git
+git@github.com:LeoSery/EarthSaver--Unity3D-2019.git
 ```
 or 
 ```
-https://github.com/LeoSery/EarthSaver--Unity3D-2020.git
+https://github.com/LeoSery/EarthSaver--Unity3D-2019.git
 ```
 
 - open Unity Hub and do "*Add project from disk*"
 
-    Select "`..\EarthSaver--Unity3D-2020`"
+    Select "`..\EarthSaver--Unity3D-2019`"
 
 - Check that the project opens with the Unity editor in version "**2020.1.9f1**"
 
